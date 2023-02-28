@@ -1,4 +1,4 @@
-# DrinkPo - *from* ***Recipo***
+# DrinkPo - *powered by* ***Recipo***
 
 
 >**ASP.Net Web API + ReactJS**
